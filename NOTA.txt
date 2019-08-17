@@ -1,0 +1,2 @@
+O programas realiza leitura de arquivos xml da nota fiscal eletronica NFE,
+e mostra os dados dos produtos em uma tabela.
